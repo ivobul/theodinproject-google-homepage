@@ -2,9 +2,6 @@
 
 ### Project: Rebuild the Google.com homepage (Easy Version)
 
-- The simple one with just a search box.
-
-
 ![Preview](preview.png)
 
 ---
