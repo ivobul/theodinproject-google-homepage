@@ -1,6 +1,6 @@
-## The Odin Project - Web Development 101
+# The Odin Project - Web Development 101
 
-### Project: Rebuild the Google.com homepage (Easy Version)
+## Project: Rebuild the Google.com homepage (Easy Version)
 
 ![Preview](preview.png)
 
