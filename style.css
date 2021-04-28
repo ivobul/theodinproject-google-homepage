@@ -154,10 +154,6 @@ form {
   margin-top: 25px;
 }
 
-form input { 
-  display: block; 
-}
-
 form div {
   position: relative; 
 }
@@ -173,6 +169,7 @@ form label {
 form input {
   border: 1px solid #dfe1e5;
   border-radius: 30px;
+  display: block;
   outline: none;
   padding: .7rem 1rem .7rem 3rem;
   width: 500px;
