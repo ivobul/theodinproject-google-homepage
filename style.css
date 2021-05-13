@@ -213,15 +213,11 @@ footer {
 }
 
 .country, .footer-nav {
-  height: 100px;
-}
-/*
-footer div {
   align-items: center;
   display: flex;
-  flex: 50%;
+  height: 100px;
 }
-*/
+
 footer .right-footer {
   justify-content: flex-end;
 }
