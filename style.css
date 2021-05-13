@@ -151,7 +151,7 @@ main {
 }
 
 img {
-  margin-top: auto;
+  margin: auto 0;
 }
 
 form {
