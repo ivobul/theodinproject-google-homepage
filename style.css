@@ -212,13 +212,13 @@ footer {
   color: #6f7277;
   display: flex;
   font-size: .9rem;
+  height: 50px;
 }
 
 footer div {
   align-items: center;
   display: flex;
-  flex: 1 50%;
-  height: 50px; 
+  flex: 50%;
 }
 
 footer .right-footer {
