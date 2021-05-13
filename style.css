@@ -208,7 +208,6 @@ form .form-btns button:first-child {
 footer {
   background-color: #f2f2f2;
   color: #6f7277;
-  display: flex;
   font-size: .9rem;
 }
 
