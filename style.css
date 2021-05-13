@@ -152,6 +152,7 @@ main {
 
 img {
   margin-top: auto;
+  max-height: 92px;
 }
 
 form {
