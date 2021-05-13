@@ -217,8 +217,12 @@ footer {
   height: 50px;
 }
 
-footer .right-footer {
-  justify-content: flex-end;
+.footer-nav {
+  
+}
+
+.left-footer, .right-footer {
+  flex: 50%;
 }
 
 footer div p {
