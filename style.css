@@ -226,6 +226,10 @@ footer {
   flex: 50%;
 }
 
+.right-footer {
+  justify-content: flex-end;
+}
+
 footer div p {
   padding-right: 20px;
 }
