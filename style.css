@@ -222,6 +222,7 @@ footer {
 }
 
 .left-footer, .right-footer {
+  display: flex;
   flex: 50%;
 }
 
