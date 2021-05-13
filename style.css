@@ -82,6 +82,7 @@ a {
 body {
   background-color: #fff;
   display: flex;
+  flex-direction: column;
   font-family: 'Ubuntu', sans-serif;
   min-width: 900px;
   position: relative;
