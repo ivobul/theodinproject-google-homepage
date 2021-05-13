@@ -210,20 +210,13 @@ footer {
   color: #6f7277;
   display: flex;
   font-size: .9rem;
+  height: 95px;
 }
 
 footer div {
   align-items: center;
   display: flex;
   flex: 50%;
-}
-
-.row {
-  height: 50px;
-}
-
-.country {
-  flex: 100%;
 }
 
 footer .right-footer {
