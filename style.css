@@ -97,12 +97,11 @@ nav {
   align-items: center;
   display: flex;
   flex-direction: row;
-  height: 50px;
+  height: 60px;
 }
 
 nav div {
   flex: 1 50%;
-/*border: 1px solid red;*/
   padding: .3rem 0;
 }
 
@@ -114,7 +113,6 @@ nav div.right-nav {
 nav a {
   display: block;
   font-size: .8125rem;
-/* border: 1px solid red; */
 }
 
 nav ul li {
@@ -214,8 +212,6 @@ footer {
   color: #6f7277;
   display: flex;
   font-size: .9rem;
-  padding: 0;
-  width: 100%;
 }
 
 footer div {
