@@ -214,7 +214,7 @@ footer {
 .country, .footer-nav {
   align-items: center;
   display: flex;
-  height: 100px;
+  height: 50px;
 }
 
 footer .right-footer {
