@@ -214,13 +214,13 @@ footer {
   font-size: .9rem;
 }
 
-.country, .footer-nav {
+.region, .footer-nav {
   align-items: center;
   display: flex;
   height: 50px;
 }
 
-.country {
+.region {
   border-bottom: 1px solid #dadce0;
 }
 
